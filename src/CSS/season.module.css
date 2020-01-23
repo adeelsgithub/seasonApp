@@ -1,0 +1,30 @@
+.ui{
+    height: 100vh;
+}
+.iconLeft{
+    position: absolute;
+    top:0;
+    left:0;
+    
+}
+.iconRight{
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+
+.app{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+
+.summer{
+    background-color: orange;
+    color:white;
+}
+.winter{
+    background-color: #499eff;
+    color: white;
+}
